@@ -23,8 +23,8 @@ imageURL = domain + "/" + basePath + "/0/" + key
 - Xcode 11+
 
 
-**Simulator Output
-**
+## Result
+
 
 
 <img width="359" alt="Screenshot 2024-05-09 at 12 21 22 PM" src="https://github.com/mdssaleem/TaskApp/assets/32189409/29fab559-2703-4425-a445-6e2041be9d1f">
